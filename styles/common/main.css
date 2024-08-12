@@ -1,0 +1,21 @@
+body {
+    transition: background-color 1s;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+[data-mode] {
+    transition: all 0.5s;
+}
+
+:root {
+    --c-white: 255, 255, 255;
+    --c-black: 0, 0, 0;
+    --c-d-gray: 90, 90, 90;
+    --c-gray: 168, 168, 168;
+    --c-l-gray: 227, 227, 227;
+    --c-font-yel: 245, 222, 179;
+}

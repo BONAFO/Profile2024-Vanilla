@@ -1,0 +1,31 @@
+.dark-mode-icon {
+    user-select: none;
+    cursor: pointer;
+    position: fixed;
+    transition: background-color 0.2s, opacity 0.15s;
+    border-radius: 30%;
+}
+
+#dm-off {
+    background-color: #9cb9f2;
+}
+
+#dm-on {
+    background-color: #b5b5b5;
+}
+
+.dark-mode-cont {
+    position: fixed;
+}
+
+.dmlabel {
+    position: relative;
+}
+
+.dm-dmlabel {
+    color: rgb(var(--c-white));
+}
+
+.wm-dmlabel {
+    color: rgb(var(--c-black));
+}

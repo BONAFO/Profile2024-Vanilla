@@ -1,0 +1,21 @@
+.title {
+    font-size: 3rem;
+}
+
+.logo-tdimg {
+    width: 10%;
+}
+
+.logo-tdtxt {
+    width: 45%;
+    text-align: center;
+}
+
+.logo-img {
+    display: inline-block;
+    width: 45%;
+}
+
+.logo-lab {
+    font-size: 1.5rem;
+}

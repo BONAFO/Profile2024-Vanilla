@@ -1,0 +1,58 @@
+.nav-a {
+    color: rgb(var(--c-font-yel));
+    font-size: 1rem;
+}
+
+.nav-btn {
+    padding: 4% 10%;
+    width: 100%;
+    height: 5.5vh;
+    cursor: pointer;
+    /* border-radius: 30%;
+    box-shadow: 1px 0px 10px 3px rgba(var(--c-font-yel), 0.753);
+    -webkit-box-shadow: 1px 0px 10px 3px rgba(var(--c-font-yel), 0.753);
+    -moz-box-shadow: 1px 0px 10px 3px rgba(var(--c-font-yel), 0.753); */
+}
+
+.nav-td-effect {
+    transition: box-shadow .3s, -webkit-box-shadow .3s, -moz-box-shadow .3s, background-color .5s;
+    cursor: pointer;
+}
+
+.nav-a {
+    transition: color .3s;
+    cursor: pointer;
+}
+
+.dnav-btn {
+    transition: background-color .3s;
+    cursor: pointer;
+}
+
+.nav-td-hov-in {
+    box-shadow: 1px 0px 10px 3px rgba(var(--c-font-yel), 0.753);
+    -webkit-box-shadow: 1px 0px 10px 3px rgba(var(--c-font-yel), 0.753);
+    -moz-box-shadow: 1px 0px 10px 3px rgba(var(--c-font-yel), 0.753);
+}
+
+.nav-td-hov-out {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+}
+
+.nav-btn-hov-in {
+    background-color: rgb(var(--c-font-yel));
+}
+
+.nav-btn-hov-out {
+    background-color: transparent;
+}
+
+.nav-a-hov-in {
+    color: rgb(var(--c-black));
+}
+
+.nav-a-hov-out {
+    color: rgb(var(--c-font-yel));
+}

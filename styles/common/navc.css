@@ -1,0 +1,25 @@
+.nav-btn {
+    border: none;
+    background-color: transparent;
+}
+
+.nav-a {
+    color: var(--c-black);
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-table {
+    width: 100vw;
+    text-align: center;
+}
+
+.nav-td {
+    width: calc(100% / 4) !important;
+}
+
+.wm-nav-cont {
+    background-color: rgba(var(--c-black), .7);
+}

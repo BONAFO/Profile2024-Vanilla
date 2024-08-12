@@ -1,0 +1,33 @@
+.title {
+    text-align: center;
+}
+
+.banner-cont {
+    width: 100%;
+}
+
+.logo-lab {
+    color: rgb(245, 222, 179);
+}
+
+.content-td {
+    width: calc(100% / 1);
+}
+
+.content-card {
+    height: 10vh;
+    background-color: black;
+    width: 100vw;
+}
+
+.dm-title {
+    color: rgb(var(--c-white));
+}
+
+.wm-title {
+    color: rgb(var(--c-black));
+}
+
+.wm-banner-cont {
+    background-color: rgba(var(--c-black), .7);
+}

@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .dark-mode-icon {
+        margin-left: 1%;
+        font-size: 3.5rem;
+    }
+    .dark-mode-cont {
+        right: 1%;
+        bottom: 10%;
+    }
+    .dmlabel {
+        font-size: 0.9rem;
+        bottom: 10px;
+    }
+}

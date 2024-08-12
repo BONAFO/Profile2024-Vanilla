@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+    .nav-cont {
+        padding-bottom: 2%;
+    }
+    .nav-btn {
+        height: 7vh;
+        width: 100%;
+        /* /* border-radius: 30% !important; */
+        box-shadow: 1px 0px 10px 3px rgba(var(--c-font-yel), 0.753) !important;
+        background-color: rgba(var(--c-font-yel), 0.7) !important;
+    }
+    .nav-a {
+        color: var(--c-black) !important;
+        font-size: .6rem;
+    }
+}

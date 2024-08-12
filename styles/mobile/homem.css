@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+    .title {
+        font-size: 2rem;
+    }
+    .logo-tdimg {
+        width: 10%;
+    }
+    .logo-tdtxt {
+        width: 45%;
+        text-align: center;
+    }
+    .logo-img {
+        display: inline-block;
+        width: 5rem;
+    }
+    .logo-lab {
+        font-size: 0.6rem;
+    }
+}
